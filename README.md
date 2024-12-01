@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![trophy](https://github-profile-trophy.vercel.app/?username=icebewide&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
